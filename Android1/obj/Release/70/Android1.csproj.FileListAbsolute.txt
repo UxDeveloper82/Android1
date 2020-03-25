@@ -1,0 +1,4 @@
+C:\Users\Martin\Source\Repos\Android1\Android1\obj\Release\70\MonoAndroid,Version=v7.0.AssemblyAttributes.cs
+C:\Users\Martin\Source\Repos\Android1\Android1\obj\Release\70\build.props
+C:\Users\Martin\Source\Repos\Android1\Android1\obj\Release\70\adb.props
+C:\Users\Martin\Source\Repos\Android1\Android1\obj\Release\70\Android1.csprojAssemblyReference.cache
